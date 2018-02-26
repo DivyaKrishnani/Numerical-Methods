@@ -1,3 +1,5 @@
+//Implementation of Newton Raphson Method to find roots of the equation - f(x) = x-tan(x)
+
 #include<iostream>
 #include <math.h>
 #include <iomanip>
